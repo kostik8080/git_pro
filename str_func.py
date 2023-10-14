@@ -1,5 +1,5 @@
 def str_func(value):
-    """функция фыводит все заглавные во всех словах"""
+    """функция фыводит все заглавные"""
     return value.upper()
 
 def str_title(value):
